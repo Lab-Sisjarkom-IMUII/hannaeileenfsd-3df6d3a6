@@ -1,0 +1,11 @@
+{
+  "name": "hannaeileenfsd",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "hannaeileenfsd",
+  "email": "24523247@students.uii.ac.id",
+  "secretKey": "imuii_8b97ccbf7cc09116f8236cbf15993efb95a283766f891e277d0588328a9bcd2b",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/hannaeileenfsd-3df6d3a6.git"
+}
